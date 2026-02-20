@@ -25,20 +25,20 @@ namespace EazyPOS
         {
             //Ravikant
             // CORS Configuration
-            //services.AddCors(options =>
-            //{
-            //    options.AddPolicy("AllowOrigin", builder =>
-            //    {
-            //        builder.SetIsOriginAllowed(origin =>
-            //        origin.Contains("eazypos.ai", StringComparison.OrdinalIgnoreCase) ||
-            //        origin.StartsWith("https://localhost", StringComparison.OrdinalIgnoreCase) ||
-            //        origin.StartsWith("http://localhost", StringComparison.OrdinalIgnoreCase) ||
-            //        origin.StartsWith("http://192.168.0.34", StringComparison.OrdinalIgnoreCase))
-            //        .AllowAnyMethod()
-            //        .AllowAnyHeader()
-            //        .AllowCredentials();
-            //    });
-            //});
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowOrigin", builder =>
+                {
+                    builder.SetIsOriginAllowed(origin =>
+                    origin.Contains("eazypos.ai", StringComparison.OrdinalIgnoreCase) ||
+                    origin.StartsWith("https://localhost", StringComparison.OrdinalIgnoreCase) ||
+                    origin.StartsWith("http://localhost", StringComparison.OrdinalIgnoreCase) ||
+                    origin.StartsWith("http://192.168.0.34", StringComparison.OrdinalIgnoreCase))
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials();
+                });
+            });
 
 
             //services.AddControllersWithViews()
@@ -105,4 +105,3 @@ namespace EazyPOS
          .Build();
     }
 }
-
