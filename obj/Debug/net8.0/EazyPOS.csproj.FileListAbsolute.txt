@@ -1,0 +1,216 @@
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\appsettings.Development.json
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\appsettings.json
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.staticwebassets.endpoints.json
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.deps.json
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.dll
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.csproj.AssemblyReference.cache
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.csproj.CoreCompileInputs.cache
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\scopedcss\bundle\EazyPOS.styles.css
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.build.json
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.development.json
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\swae.build.ex.cache
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.dll
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\refint\EazyPOS.dll
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\ref\EazyPOS.dll
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.exe
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.runtimeconfig.json
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\ClosedXML.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\ClosedXML.Parser.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Devart.Data.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Devart.Data.PostgreSql.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\RBush.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Serilog.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\Twilio.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.MvcApplicationPartsAssemblyInfo.cs
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.MvcApplicationPartsAssemblyInfo.cache
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.csproj.Up2Date
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.genruntimeconfig.cache
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.staticwebassets.runtime.json
+D:\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.pdb
+D:\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.pdb
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\appsettings.Development.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\appsettings.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.staticwebassets.runtime.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.staticwebassets.endpoints.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.exe
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.deps.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.runtimeconfig.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.pdb
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\ClosedXML.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\ClosedXML.Parser.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Devart.Data.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Devart.Data.PostgreSql.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\RBush.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Serilog.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\Twilio.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.csproj.AssemblyReference.cache
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.csproj.CoreCompileInputs.cache
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.MvcApplicationPartsAssemblyInfo.cs
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.MvcApplicationPartsAssemblyInfo.cache
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\scopedcss\bundle\EazyPOS.styles.css
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.build.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.development.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.EazyPOS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.EazyPOS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.build.EazyPOS.props
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EazyPOS.props
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EazyPOS.props
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.csproj.Up2Date
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\refint\EazyPOS.dll
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.pdb
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.genruntimeconfig.cache
+D:\Deepak_Goyal\EazyPOS\EazyPOS\obj\Debug\net8.0\ref\EazyPOS.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\appsettings.Development.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\appsettings.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.staticwebassets.endpoints.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.staticwebassets.runtime.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.exe
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.deps.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.runtimeconfig.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\EazyPOS.pdb
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\ClosedXML.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\ClosedXML.Parser.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Devart.Data.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Devart.Data.PostgreSql.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\RBush.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Serilog.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\Twilio.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.csproj.AssemblyReference.cache
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.csproj.CoreCompileInputs.cache
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.MvcApplicationPartsAssemblyInfo.cs
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.MvcApplicationPartsAssemblyInfo.cache
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\scopedcss\bundle\EazyPOS.styles.css
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.build.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.development.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.EazyPOS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.EazyPOS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.build.EazyPOS.props
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EazyPOS.props
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EazyPOS.props
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.csproj.Up2Date
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\refint\EazyPOS.dll
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.pdb
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\EazyPOS.genruntimeconfig.cache
+D:\Himanshu Sharma\1-2026\EazyPOS\EazyPOS\obj\Debug\net8.0\ref\EazyPOS.dll

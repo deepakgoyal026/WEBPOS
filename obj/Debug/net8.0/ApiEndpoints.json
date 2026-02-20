@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "EazyPOS.Controllers.HomeController",
+    "Method": "GetHome",
+    "RelativePath": "api/home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

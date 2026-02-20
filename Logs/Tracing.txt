@@ -1,0 +1,734 @@
+--2026-01-18 14:32:11--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:32:19--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:32:19--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-18 14:32:19--
+Meddileware catch block error :- Index was outside the bounds of the array.
+--2026-01-18 14:32:19--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:37:08--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:39:51--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:39:52--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:41:18--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:41:18--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:41:18--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:41:20--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:41:26--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:41:26--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-18 14:41:26--
+Meddileware catch block error :- Index was outside the bounds of the array.
+--2026-01-18 14:41:26--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:41:36--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:44:47--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:44:52--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:44:52--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-18 14:44:52--
+Meddileware catch block error :- Index was outside the bounds of the array.
+--2026-01-18 14:44:52--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:46:07--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:46:39--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-18 14:46:39--
+Meddileware catch block error :- Index was outside the bounds of the array.
+--2026-01-18 14:46:39--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:46:54--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:48:27--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:49:29--
+HeaderVal token :- 
+--2026-01-18 14:49:50--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:50:39--
+Meddileware catch block api name :- /api/whatsapp/webhook
+--2026-01-18 14:50:40--
+Meddileware catch block error :- Value cannot be null. (Parameter 'stringToEscape')
+--2026-01-18 14:50:41--
+Fially block api name :- /api/whatsapp/webhook
+--2026-01-18 14:52:51--
+Fially block api name :- /api/whatsapp/webhook
+--2026-01-18 14:53:14--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 14:54:38--
+Fially block api name :- /api/whatsapp/webhook
+--2026-01-18 14:55:27--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-18 14:55:27--
+Meddileware catch block error :- Value cannot be null. (Parameter 'stringToEscape')
+--2026-01-18 14:55:27--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:57:41--
+Fially block api name :- /favicon.ico
+--2026-01-18 14:57:44--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:57:45--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-18 14:57:45--
+Meddileware catch block error :- The license has expired. Your key is not valid for this version. It is valid only for versions released before 2022-09-08. Renew the license key in the Customer Portal. License number: 2BBE-051-001
+--2026-01-18 14:57:45--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:57:48--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:57:48--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-18 14:57:48--
+Meddileware catch block error :- The license has expired. Your key is not valid for this version. It is valid only for versions released before 2022-09-08. Renew the license key in the Customer Portal. License number: 2BBE-051-001
+--2026-01-18 14:57:48--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:58:29--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:58:45--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-18 14:58:45--
+Meddileware catch block error :- The license has expired. Your key is not valid for this version. It is valid only for versions released before 2022-09-08. Renew the license key in the Customer Portal. License number: 2BBE-051-001
+--2026-01-18 14:58:45--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:58:53--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:59:19--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-18 14:59:19--
+Meddileware catch block error :- The license has expired. Your key is not valid for this version. It is valid only for versions released before 2022-09-08. Renew the license key in the Customer Portal. License number: 2BBE-051-001
+--2026-01-18 14:59:19--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 14:59:24--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 14:59:43--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 15:01:07--
+Fially block api name :- /api/home
+--2026-01-18 15:02:36--
+Fially block api name :- /favicon.ico
+--2026-01-18 15:02:54--
+Meddileware catch block api name :- /api/home
+--2026-01-18 15:02:54--
+Meddileware catch block error :- Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Result.TargetSite.
+--2026-01-18 15:02:54--
+Fially block api name :- /api/home
+--2026-01-18 15:03:10--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 15:03:44--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 15:03:54--
+HeaderVal token :- sjalkdjalksjd
+--2026-01-18 15:05:37--
+Fially block api name :- /api/getuserdetail
+--2026-01-18 15:05:57--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:06:15--
+Fially block api name :- /api/whatsapp/webhook
+--2026-01-18 15:06:55--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:07:25--
+Meddileware catch block api name :- /api/webhook
+--2026-01-18 15:07:25--
+Meddileware catch block error :- Invalid From and To pair. From and To should be of the same channel
+--2026-01-18 15:07:26--
+Fially block api name :- /api/webhook
+--2026-01-18 15:08:49--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:13:54--
+Fially block api name :- /favicon.ico
+--2026-01-18 15:14:00--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:14:06--
+Fially block api name :- /api/webhook
+--2026-01-18 15:14:50--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:16:18--
+Fially block api name :- /api/webhook
+--2026-01-18 15:18:25--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:25:04--
+Fially block api name :- /favicon.ico
+--2026-01-18 15:25:12--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:25:19--
+Fially block api name :- /api/webhook
+--2026-01-18 15:26:14--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:26:19--
+Meddileware catch block api name :- /api/webhook
+--2026-01-18 15:26:19--
+Meddileware catch block error :- The Content Variables parameter is invalid.
+--2026-01-18 15:26:20--
+Fially block api name :- /api/webhook
+--2026-01-18 15:26:43--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:27:02--
+Meddileware catch block api name :- /api/webhook
+--2026-01-18 15:27:02--
+Meddileware catch block error :- The Content Variables parameter is invalid.
+--2026-01-18 15:27:02--
+Fially block api name :- /api/webhook
+--2026-01-18 15:27:09--
+HeaderVal token :- kjlakdlajd
+--2026-01-18 15:27:27--
+Fially block api name :- /api/webhook
+--2026-01-18 15:27:29--
+Fially block api name :- /favicon.ico
+--2026-01-19 16:59:33--
+Fially block api name :- /favicon.ico
+--2026-01-19 17:03:12--
+Fially block api name :- /favicon.ico
+--2026-01-19 17:03:15--
+Fially block api name :- /favicon.ico
+--2026-01-19 17:03:17--
+Fially block api name :- /Controllers/HomeController.cs
+--2026-01-19 17:18:58--
+Fially block api name :- /favicon.ico
+--2026-01-19 17:28:21--
+Fially block api name :- /https://localhost:44382/
+--2026-01-19 17:28:29--
+HeaderVal token :- 
+--2026-01-19 17:28:29--
+Fially block api name :- /https://localhost:44382/
+--2026-01-19 17:29:20--
+Meddileware catch block api name :- /api/LogIn
+--2026-01-19 17:29:20--
+Meddileware catch block error :- Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Result.TargetSite.
+--2026-01-19 17:29:20--
+Fially block api name :- /api/LogIn
+--2026-01-19 17:30:02--
+Meddileware catch block api name :- /api/LogIn
+--2026-01-19 17:30:02--
+Meddileware catch block error :- Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Result.TargetSite.
+--2026-01-19 17:30:02--
+Fially block api name :- /api/LogIn
+--2026-01-19 17:30:20--
+Meddileware catch block api name :- /api/LogIn
+--2026-01-19 17:30:20--
+Meddileware catch block error :- Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Result.TargetSite.
+--2026-01-19 17:30:21--
+Fially block api name :- /api/LogIn
+--2026-01-19 18:23:55--
+Fially block api name :- /api/LogIn
+--2026-01-19 18:28:00--
+Fially block api name :- /api/LogIn
+--2026-01-19 18:31:42--
+Fially block api name :- /api/LogIn
+--2026-01-19 18:41:17--
+Fially block api name :- /api/LogIn
+--2026-01-19 18:41:31--
+Fially block api name :- /api/LogIn
+--2026-01-19 18:47:38--
+Fially block api name :- /api/LogIn
+--2026-01-19 19:21:47--
+Fially block api name :- /api/LogIn
+--2026-01-19 19:22:06--
+Fially block api name :- /api/LogIn
+--2026-01-19 19:23:01--
+Fially block api name :- /api/LogIn
+--2026-01-19 19:26:02--
+Fially block api name :- /api/LogIn
+--2026-01-19 19:40:02--
+Fially block api name :- /api/LogIn
+--2026-01-19 19:41:14--
+Fially block api name :- /api/LogIn
+--2026-01-19 20:07:41--
+Fially block api name :- /api/LogIn
+--2026-01-20 14:57:34--
+Fially block api name :- /api/LogIn
+--2026-01-27 13:44:39--
+GetClientDetails for settings database :-1
+--2026-01-27 13:45:33--
+GetClientDetails for settings database connection close
+--2026-01-27 13:54:22--
+Meddileware catch block api name :- /api/LogIn
+--2026-01-27 13:54:22--
+Meddileware catch block error :- Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Result.TargetSite.
+--2026-01-27 13:54:22--
+Fially block api name :- /api/LogIn
+--2026-01-27 14:32:33--
+Meddileware catch block api name :- /api/LogIn
+--2026-01-27 14:32:33--
+Meddileware catch block error :- Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Result.TargetSite.
+--2026-01-27 14:32:33--
+Fially block api name :- /api/LogIn
+--2026-01-27 14:33:24--
+Fially block api name :- /api/LogIn
+--2026-01-27 14:33:46--
+GetClientDetails for settings database :-1
+--2026-01-27 14:33:50--
+GetClientDetails for settings database connection close
+--2026-01-27 14:34:04--
+Fially block api name :- /api/LogIn
+--2026-01-27 14:35:08--
+GetClientDetails for settings database :-1
+--2026-01-27 14:35:08--
+GetClientDetails for settings database connection close
+--2026-01-27 14:36:22--
+GetClientDetails for main database connection strig :- Host= 192.168.0.55;Database= possettingdatabase;port= 5435;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 14:41:13--
+IsValidUser:- SELECT UM.id,UM.username, EM.employeename,UM.password,Em.EmployeeId,(case when UM.issuperuser=true then 'true' else 'false' end) superuser,EM.email 
+FROM sec_usermaster AS UM
+LEFT JOIN hr_EmployeeMaster AS EM ON EM.employeeid = UM.employeeid 
+WHERE LOWER(UM.username)='pos23' AND UM.isactive=true AND  UM.isauthorized=true;
+
+--2026-01-27 14:41:13--
+Fially block api name :- /api/LogIn
+--2026-01-27 14:42:47--
+GetClientDetails for settings database :-1
+--2026-01-27 14:44:25--
+GetClientDetails for settings database connection close
+--2026-01-27 14:47:34--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 14:52:20--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='pos23' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 14:53:08--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 14:53:21--
+with main db DT:- 1
+--2026-01-27 14:53:41--
+Fially block api name :- /api/LogIn
+--2026-01-27 14:53:55--
+GetClientDetails for settings database :-1
+--2026-01-27 14:53:55--
+GetClientDetails for settings database connection close
+--2026-01-27 14:53:56--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 14:53:56--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='pos23' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 14:54:03--
+Fially block api name :- /api/LogIn
+--2026-01-27 14:58:15--
+GetClientDetails for settings database :-1
+--2026-01-27 14:58:15--
+GetClientDetails for settings database connection close
+--2026-01-27 14:58:23--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 14:58:43--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 14:58:44--
+Fially block api name :- /api/LogIn
+--2026-01-27 14:59:01--
+GetClientDetails for settings database :-1
+--2026-01-27 15:01:32--
+GetClientDetails for settings database :-1
+--2026-01-27 15:01:32--
+GetClientDetails for settings database connection close
+--2026-01-27 15:01:41--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 15:01:48--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 15:01:54--
+with main db DT:- 1
+--2026-01-27 15:02:30--
+Fially block api name :- /api/LogIn
+--2026-01-27 15:02:37--
+GetClientDetails for settings database :-1
+--2026-01-27 15:02:37--
+GetClientDetails for settings database connection close
+--2026-01-27 15:02:38--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 15:02:38--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 15:02:42--
+with main db DT:- 1
+--2026-01-27 15:02:52--
+Fially block api name :- /api/LogIn
+--2026-01-27 15:03:21--
+GetClientDetails for settings database :-1
+--2026-01-27 15:03:21--
+GetClientDetails for settings database connection close
+--2026-01-27 15:03:31--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 15:03:33--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 15:04:05--
+with main db DT:- 1
+--2026-01-27 15:04:37--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gcTWWCeI7RAkL5foMhhUei2AGMk02ikhFduHQU0TFQ3dfRUSaiCfthrL41MScyf8c
+--2026-01-27 15:04:44--
+Meddileware catch block api name :- /api/LogIn
+--2026-01-27 15:04:44--
+Meddileware catch block error :- Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Result.TargetSite.
+--2026-01-27 15:04:45--
+Fially block api name :- /api/LogIn
+--2026-01-27 15:04:51--
+GetClientDetails for settings database :-1
+--2026-01-27 15:04:51--
+GetClientDetails for settings database connection close
+--2026-01-27 15:04:52--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 15:04:52--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 15:04:55--
+with main db DT:- 1
+--2026-01-27 15:43:09--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gc4nmXxj9te/Sqp9r9QrV8TkNDBCVs/VVKS8WsFbRlTpJCRTP3//84utZdXrtSG43
+--2026-01-27 15:43:29--
+Meddileware catch block api name :- /api/LogIn
+--2026-01-27 15:43:29--
+Meddileware catch block error :- Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Result.TargetSite.
+--2026-01-27 15:43:29--
+Fially block api name :- /api/LogIn
+--2026-01-27 15:43:39--
+GetClientDetails for settings database :-1
+--2026-01-27 15:43:39--
+GetClientDetails for settings database connection close
+--2026-01-27 15:43:41--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 15:43:41--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 15:43:43--
+with main db DT:- 1
+--2026-01-27 15:43:49--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 15:45:46--
+Fially block api name :- /api/LogIn
+--2026-01-27 15:48:41--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 15:51:30--
+Fially block api name :- /api/getuserdetail
+--2026-01-27 15:51:35--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 15:52:56--
+Fially block api name :- /api/getuserdetail
+--2026-01-27 15:52:59--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 15:53:00--
+Fially block api name :- /api/getuserdetail
+--2026-01-27 18:44:15--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 18:44:55--
+Meddileware catch block api name :- /api/CityMaster/List
+--2026-01-27 18:44:55--
+Meddileware catch block error :- Cannot convert object of type 'System.String' to object of type 'System.Int32'.
+--2026-01-27 18:44:55--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 18:45:01--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 18:45:30--
+Meddileware catch block api name :- /api/CityMaster/List
+--2026-01-27 18:45:30--
+Meddileware catch block error :- Cannot convert object of type 'System.String' to object of type 'System.Int32'.
+--2026-01-27 18:45:30--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 18:45:37--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 18:45:51--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-27 18:45:51--
+Meddileware catch block error :- Cannot convert object of type 'System.String' to object of type 'System.Int32'.
+--2026-01-27 18:45:51--
+Fially block api name :- /api/getuserdetail
+--2026-01-27 18:46:00--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 18:46:41--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-27 18:46:41--
+Meddileware catch block error :- Cannot convert object of type 'System.String' to object of type 'System.Int32'.
+--2026-01-27 18:46:41--
+Fially block api name :- /api/getuserdetail
+--2026-01-27 18:46:45--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 18:47:21--
+Meddileware catch block api name :- /api/getuserdetail
+--2026-01-27 18:47:21--
+Meddileware catch block error :- Cannot convert object of type 'System.String' to object of type 'System.Int32'.
+--2026-01-27 18:47:21--
+Fially block api name :- /api/getuserdetail
+--2026-01-27 18:49:00--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gIaT6PcujmzkOZioVFSatzgiWvmwcR9+YG41WIfQ5YL3VbmG1/EX8nBVQ/j51G8fv
+--2026-01-27 18:53:00--
+Fially block api name :- /api/getuserdetail
+--2026-01-27 18:53:10--
+GetClientDetails for settings database :-1
+--2026-01-27 18:53:10--
+GetClientDetails for settings database connection close
+--2026-01-27 18:53:11--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 18:53:11--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 18:53:22--
+with main db DT:- 1
+--2026-01-27 18:53:48--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 18:53:57--
+Fially block api name :- /api/LogIn
+--2026-01-27 18:54:14--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 18:59:32--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:20:53--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:20:54--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:24:41--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:24:45--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:24:53--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:25:08--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:25:26--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:26:15--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:26:31--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:29:52--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:30:07--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:30:47--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:30:54--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:33:42--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:33:48--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gCtRG113l1v3abJZs8ykrkhSW3sV+SUehhnH51Tp7cVZEpUG41c0SQVqlOMVAb1SEbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:35:53--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:37:39--
+GetClientDetails for settings database :-1
+--2026-01-27 19:37:39--
+GetClientDetails for settings database connection close
+--2026-01-27 19:37:45--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 19:37:49--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 19:37:57--
+with main db DT:- 1
+--2026-01-27 19:38:04--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gX449rvoTSqw5j3ygXszL0tMRl0GKF00OJzB2uZQUT83lzvORLajyVtAgshwKVRgSbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:38:04--
+Fially block api name :- /api/LogIn
+--2026-01-27 19:41:02--
+GetClientDetails for settings database :-1
+--2026-01-27 19:41:02--
+GetClientDetails for settings database connection close
+--2026-01-27 19:41:11--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 19:41:26--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 19:41:28--
+with main db DT:- 1
+--2026-01-27 19:48:05--
+GetClientDetails for settings database :-1
+--2026-01-27 19:48:05--
+GetClientDetails for settings database connection close
+--2026-01-27 19:48:05--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 19:48:05--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 19:48:06--
+with main db DT:- 1
+--2026-01-27 19:48:07--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gc0A6Tcfdy1ejEkK4/6CyoIByQcGH/cRZbRPPL1Hh1RGwbdkrSHwmDokmfwXUHvPfbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:48:08--
+Fially block api name :- /api/LogIn
+--2026-01-27 19:48:45--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gc0A6Tcfdy1ejEkK4/6CyoIByQcGH/cRZbRPPL1Hh1RGwbdkrSHwmDokmfwXUHvPfbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:48:46--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 19:49:08--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gc0A6Tcfdy1ejEkK4/6CyoIByQcGH/cRZbRPPL1Hh1RGwbdkrSHwmDokmfwXUHvPfbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 19:53:25--
+Fially block api name :- /api/CityMaster/List
+--2026-01-27 20:29:42--
+GetClientDetails for settings database :-1
+--2026-01-27 20:29:42--
+GetClientDetails for settings database connection close
+--2026-01-27 20:29:43--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 20:29:43--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 20:29:45--
+with main db DT:- 1
+--2026-01-27 20:29:50--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gH1dB1/yr/ceT2NP5OrUycVoT5VW/Syd1YQNpXpLDcw+xnHprjvVvjTVrGEpOIGk2bQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 20:43:55--
+GetClientDetails for settings database :-1
+--2026-01-27 20:43:55--
+GetClientDetails for settings database connection close
+--2026-01-27 20:43:56--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 20:43:56--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 20:43:58--
+with main db DT:- 1
+--2026-01-27 20:44:02--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1g/iO0mgKIW82K9mjMRptWDbM/TjM4ecMZdbwkm7EFzZMyPNs9siYjfFK0oXB40FYybQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 21:01:23--
+Fially block api name :- /api/LogIn
+--2026-01-27 21:01:28--
+GetClientDetails for settings database :-1
+--2026-01-27 21:01:28--
+GetClientDetails for settings database connection close
+--2026-01-27 21:01:28--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 21:01:28--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 21:01:28--
+with main db DT:- 1
+--2026-01-27 21:01:31--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gf4HQLt2X4LqrLNZLLs6xfemY2aoHAbWuyiI330lmIzAeyZjCKCLQW8SaqinKuMN+bQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 21:01:48--
+Meddileware catch block api name :- /api/LogIn
+--2026-01-27 21:01:48--
+Meddileware catch block error :- Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.Result.TargetSite.
+--2026-01-27 21:01:48--
+Fially block api name :- /api/LogIn
+--2026-01-27 21:02:27--
+GetClientDetails for settings database :-1
+--2026-01-27 21:02:27--
+GetClientDetails for settings database connection close
+--2026-01-27 21:02:27--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 21:02:27--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 21:02:29--
+with main db DT:- 1
+--2026-01-27 21:02:32--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1g9tjz65oxckwPgSYe7BDX/rpUWe6NkTT4TPx4uJZMnWtKVfPwXOfEScmG9RgFgratbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 21:05:58--
+GetClientDetails for settings database :-1
+--2026-01-27 21:05:58--
+GetClientDetails for settings database connection close
+--2026-01-27 21:06:13--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 21:06:24--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 21:06:27--
+with main db DT:- 1
+--2026-01-27 21:09:56--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gvFNdLLSChhmhFue3WLQf9bNX0CX8R6nNdcce6y9LZTarhstcU7Zzj2W0Q9PAHwECbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-27 21:12:58--
+Fially block api name :- /api/LogIn
+--2026-01-27 21:13:05--
+GetClientDetails for settings database :-1
+--2026-01-27 21:13:05--
+GetClientDetails for settings database connection close
+--2026-01-27 21:13:05--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-27 21:13:05--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-27 21:13:06--
+with main db DT:- 1
+--2026-01-27 21:13:11--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gm9Q7PWokorZtoFIIgF79zl8s8WsLM3L5Jj+hIXI6gAkesS5FVegh2mBXzEdfSApjbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-28 10:12:40--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gc0A6Tcfdy1ejEkK4/6CyoIByQcGH/cRZbRPPL1Hh1RGwbdkrSHwmDokmfwXUHvPfbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-28 10:13:51--
+Fially block api name :- /api/CityMaster/List
+--2026-01-29 15:40:33--
+GetClientDetails for settings database :-1
+--2026-01-29 15:40:33--
+GetClientDetails for settings database connection close
+--2026-01-29 15:40:33--
+GetClientDetails for main database connection strig :- Host = 192.168.0.55;Database = ervposweb_migrated;port = 5435;Schema = public;User Id= ebsuser;Password= eazyerp@postgres;Pooling= true; Min Pool Size= 0; Max Pool Size= 1000;ValidateConnection=true;applicationname=eazypos;License Key= CyY5ZUPpV6aBViby9jatQM6OfaV4Nwz3GaMN/Mj/QOBWfmSAdj9P47dIg6rWS+scGiFtjO8GtiS+UBO7m6iSQfHegv9WIPvoZf+QKHvBA8jKh9iOGte0YTkLDimjMS8eSkocJVKIEpHeIzI9VtljfI1nGuEvux0lcf3tGNOev2D5VgEr+8VlZY0bHG70Tm9o1ihnFMGLYh0l2FW6XWCFffSuX5alloDs2/3yuvxzLjpontJR0mJoUERymjMa6ERqc/QY57pJWlfOUuVXmdY7ECuxzOtK8Dsr4B8YVN4L0eVI+GefJ2zhfmLIYodZeRyG8nhH5a4uSczslEuozIK84A==;
+--2026-01-29 15:40:33--
+IsValidUser:- SELECT su.id ,su.username ,su.employeeid ,he.employeename ,su.password,false as superuser  
+from sec_usermaster su  
+left join hr_employeemaster he on su.employeeid = he.employeeid 
+WHERE LOWER(su.username)='adminpos' AND su.isactive=true AND  su.isauthorized=true;
+
+--2026-01-29 15:40:33--
+with main db DT:- 1
+--2026-01-29 15:40:35--
+BuildToken:- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gONKeHI0yhHzVxG1+UyqlSz/f/1WPiCdqtNZWB7OclFw0EMFgzI8XrqmZ13MLRfarbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-29 15:40:36--
+Fially block api name :- /api/LogIn
+--2026-01-29 15:41:54--
+HeaderVal token :- t2hO6t6S+UCw5kAHjvWVZtFrXjnvGND2WaB+bIP1A+cpDLxwNSIKLbupIWTTJL1gONKeHI0yhHzVxG1+UyqlSz/f/1WPiCdqtNZWB7OclFw0EMFgzI8XrqmZ13MLRfarbQLfUIhA2vnmsevUmwIsAw==
+--2026-01-29 15:41:57--
+Fially block api name :- /api/CityMaster/List

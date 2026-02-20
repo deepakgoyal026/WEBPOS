@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "fsy/O8NTm0Lmpydw6XXV/uunU2ZoaCX5Qj94espnvOQ=",
+  "Source": "EazyPOS",
+  "BasePath": "_content/EazyPOS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EazyPOS\\wwwroot",
+      "Source": "EazyPOS",
+      "ContentRoot": "D:\\Himanshu Sharma\\1-2026\\EazyPOS\\EazyPOS\\wwwroot\\",
+      "BasePath": "_content/EazyPOS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
