@@ -90,7 +90,7 @@ namespace EazyPOS.Controllers
                 ObjB.PGConnection_Close();
             }
         }
-        //Changes By Deepak
+        //Changes By Deepak Goyal
 
 
     }
